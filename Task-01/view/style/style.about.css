@@ -1,0 +1,8 @@
+ul,
+ol {
+	margin: 0 auto;
+	display: table;
+}
+p {
+	text-align: center;
+}

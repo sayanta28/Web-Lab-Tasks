@@ -1,0 +1,9 @@
+#body {
+	background-color: rgb(94, 218, 230);
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
