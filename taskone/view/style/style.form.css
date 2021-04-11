@@ -1,0 +1,11 @@
+br {
+	margin-bottom: 25px;
+}
+
+#submit_button {
+	margin: 0 auto;
+	display: table;
+	border-radius: 10px;
+	width: 58px;
+	padding: 4px;
+}
