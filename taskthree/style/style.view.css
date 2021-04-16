@@ -1,0 +1,50 @@
+#form_body {
+	display: block;
+	background-color: #b6e8e1;
+	padding: 20px;
+}
+
+label {
+	font-size: 22px;
+}
+
+input {
+	width: 97%;
+	border: 1px solid #c8c4c4;
+	border-radius: 6px;
+	height: 30px;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+.break {
+	margin-bottom: 28px;
+}
+
+select {
+	width: 97%;
+	text-align: left;
+	border: 1px solid #c8c4c4;
+	border-radius: 6px;
+	background-color: rgb(235, 235, 236);
+	height: 40px;
+	padding-left: 15px;
+	margin-top: 5px;
+}
+
+#comment {
+	width: 97%;
+	height: 90px;
+	border: 1px solid #c8c4c4;
+	border-radius: 5px;
+	font-size: 17px;
+}
+
+#button {
+	width: 97%;
+	border-width: 6px;
+	border: 1px solid #c8c4c4;
+	border-radius: 4px;
+	padding: 8px;
+	background-color: #1fdf6a;
+}
